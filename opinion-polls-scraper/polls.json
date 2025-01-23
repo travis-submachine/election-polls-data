@@ -1,0 +1,218 @@
+[
+  {
+    "pollster": "YouGov",
+    "date": "19–20 Jan 2025",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 26
+      },
+      {
+        "name": "Conservative",
+        "percentage": 22
+      },
+      {
+        "name": "Reform",
+        "percentage": 24
+      }
+    ]
+  },
+  {
+    "pollster": "More In Common",
+    "date": "17–20 Jan 2025",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 24
+      },
+      {
+        "name": "Conservative",
+        "percentage": 25
+      },
+      {
+        "name": "Reform",
+        "percentage": 25
+      }
+    ]
+  },
+  {
+    "pollster": "Deltapoll",
+    "date": "17–20 Jan 2025",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 29
+      },
+      {
+        "name": "Conservative",
+        "percentage": 25
+      },
+      {
+        "name": "Reform",
+        "percentage": 22
+      }
+    ]
+  },
+  {
+    "pollster": "Techne",
+    "date": "15–16 Jan 2025",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 26
+      },
+      {
+        "name": "Conservative",
+        "percentage": 25
+      },
+      {
+        "name": "Reform",
+        "percentage": 23
+      }
+    ]
+  },
+  {
+    "pollster": "Find Out Now",
+    "date": "15 Jan 2025",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 24
+      },
+      {
+        "name": "Conservative",
+        "percentage": 25
+      },
+      {
+        "name": "Reform",
+        "percentage": 25
+      }
+    ]
+  },
+  {
+    "pollster": "JL Partners",
+    "date": "10–14 Jan 2025",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 26
+      },
+      {
+        "name": "Conservative",
+        "percentage": 25
+      },
+      {
+        "name": "Reform",
+        "percentage": 22
+      }
+    ]
+  },
+  {
+    "pollster": "Opinium",
+    "date": "8–10 Jan 2025",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 29
+      },
+      {
+        "name": "Conservative",
+        "percentage": 23
+      },
+      {
+        "name": "Reform",
+        "percentage": 24
+      }
+    ]
+  },
+  {
+    "pollster": "Survation",
+    "date": "12–16 Dec 2024",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 30
+      },
+      {
+        "name": "Conservative",
+        "percentage": 25
+      },
+      {
+        "name": "Reform",
+        "percentage": 20
+      }
+    ]
+  },
+  {
+    "pollster": "Stonehaven",
+    "date": "6–9 Dec 2024",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 28
+      },
+      {
+        "name": "Conservative",
+        "percentage": 24
+      },
+      {
+        "name": "Reform",
+        "percentage": 21
+      }
+    ]
+  },
+  {
+    "pollster": "BMG Research",
+    "date": "26–27 Nov 2024",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 29
+      },
+      {
+        "name": "Conservative",
+        "percentage": 27
+      },
+      {
+        "name": "Reform",
+        "percentage": 20
+      }
+    ]
+  },
+  {
+    "pollster": "We Think",
+    "date": "7–8 Aug 2024",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 33
+      },
+      {
+        "name": "Conservative",
+        "percentage": 20
+      },
+      {
+        "name": "Reform",
+        "percentage": 21
+      }
+    ]
+  },
+  {
+    "pollster": "General election (GB)",
+    "date": "4 Jul 2024",
+    "parties": [
+      {
+        "name": "Labour",
+        "percentage": 34.7
+      },
+      {
+        "name": "Conservative",
+        "percentage": 24.4
+      },
+      {
+        "name": "Reform",
+        "percentage": 14.7
+      }
+    ]
+  }
+]
