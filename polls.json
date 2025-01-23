@@ -1,6 +1,5 @@
 [
   {
-    "date": "YouGov",
     "parties": [
       {
         "name": "Party A",
@@ -13,12 +12,7 @@
       {
         "name": "Party C",
         "percentage": 22
-      }
-    ]
-  },
-  {
-    "date": "More In Common",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 17
@@ -30,12 +24,7 @@
       {
         "name": "Party C",
         "percentage": 25
-      }
-    ]
-  },
-  {
-    "date": "Deltapoll",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 17
@@ -47,12 +36,7 @@
       {
         "name": "Party C",
         "percentage": 25
-      }
-    ]
-  },
-  {
-    "date": "Techne",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 15
@@ -64,12 +48,7 @@
       {
         "name": "Party C",
         "percentage": 25
-      }
-    ]
-  },
-  {
-    "date": "Find Out Now",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 15
@@ -81,12 +60,7 @@
       {
         "name": "Party C",
         "percentage": 25
-      }
-    ]
-  },
-  {
-    "date": "JL Partners",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 10
@@ -98,12 +72,7 @@
       {
         "name": "Party C",
         "percentage": 25
-      }
-    ]
-  },
-  {
-    "date": "Opinium",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 8
@@ -115,12 +84,7 @@
       {
         "name": "Party C",
         "percentage": 23
-      }
-    ]
-  },
-  {
-    "date": "Survation",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 12
@@ -132,12 +96,7 @@
       {
         "name": "Party C",
         "percentage": 25
-      }
-    ]
-  },
-  {
-    "date": "Stonehaven",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 6
@@ -149,12 +108,7 @@
       {
         "name": "Party C",
         "percentage": 24
-      }
-    ]
-  },
-  {
-    "date": "BMG Research",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 26
@@ -166,12 +120,7 @@
       {
         "name": "Party C",
         "percentage": 27
-      }
-    ]
-  },
-  {
-    "date": "We Think",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 7
@@ -183,12 +132,7 @@
       {
         "name": "Party C",
         "percentage": 20
-      }
-    ]
-  },
-  {
-    "date": "General election (GB)",
-    "parties": [
+      },
       {
         "name": "Party A",
         "percentage": 4
