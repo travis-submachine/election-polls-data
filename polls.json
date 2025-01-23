@@ -22,6 +22,10 @@
       {
         "name": "Green",
         "percentage": 9
+      },
+      {
+        "name": "Other",
+        "percentage": 5
       }
     ]
   },
@@ -47,6 +51,10 @@
       },
       {
         "name": "Green",
+        "percentage": 7
+      },
+      {
+        "name": "Other",
         "percentage": 7
       }
     ]
@@ -74,6 +82,10 @@
       {
         "name": "Green",
         "percentage": 8
+      },
+      {
+        "name": "Other",
+        "percentage": 5
       }
     ]
   },
@@ -99,6 +111,10 @@
       },
       {
         "name": "Green",
+        "percentage": 7
+      },
+      {
+        "name": "Other",
         "percentage": 7
       }
     ]
@@ -126,6 +142,10 @@
       {
         "name": "Green",
         "percentage": 10
+      },
+      {
+        "name": "Other",
+        "percentage": 4
       }
     ]
   },
@@ -152,6 +172,10 @@
       {
         "name": "Green",
         "percentage": 9
+      },
+      {
+        "name": "Other",
+        "percentage": 5
       }
     ]
   },
@@ -178,6 +202,10 @@
       {
         "name": "Green",
         "percentage": 9
+      },
+      {
+        "name": "Other",
+        "percentage": 5
       }
     ]
   },
@@ -203,6 +231,10 @@
       },
       {
         "name": "Green",
+        "percentage": 7
+      },
+      {
+        "name": "Other",
         "percentage": 7
       }
     ]
@@ -230,6 +262,10 @@
       {
         "name": "Green",
         "percentage": 8
+      },
+      {
+        "name": "Other",
+        "percentage": 6
       }
     ]
   },
@@ -256,6 +292,10 @@
       {
         "name": "Green",
         "percentage": 7
+      },
+      {
+        "name": "Other",
+        "percentage": 5
       }
     ]
   },
@@ -282,6 +322,10 @@
       {
         "name": "Green",
         "percentage": 8
+      },
+      {
+        "name": "Other",
+        "percentage": 7
       }
     ]
   },
@@ -308,6 +352,10 @@
       {
         "name": "Green",
         "percentage": 6.9
+      },
+      {
+        "name": "Other",
+        "percentage": 6.799999999999997
       }
     ]
   }
