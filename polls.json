@@ -1,0 +1,13 @@
+{
+    "polls1": [
+      { "party": "Party A", "percentage": 48 },
+      { "party": "Party B", "percentage": 45 },
+      { "party": "Party C", "percentage": 7 }
+    ],
+    "polls2": [
+      { "party": "Party X", "percentage": 52 },
+      { "party": "Party Y", "percentage": 40 },
+      { "party": "Party Z", "percentage": 8 }
+    ]
+  }
+  
