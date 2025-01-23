@@ -1,35 +1,5 @@
 [
   {
-    "pollster": "YouGov",
-    "date": "19–20 Jan 2025",
-    "parties": [
-      {
-        "name": "Labour",
-        "percentage": 26
-      },
-      {
-        "name": "Conservative",
-        "percentage": 22
-      },
-      {
-        "name": "Reform",
-        "percentage": 24
-      },
-      {
-        "name": "Lib Dems",
-        "percentage": 14
-      },
-      {
-        "name": "Green",
-        "percentage": 9
-      },
-      {
-        "name": "Other",
-        "percentage": 5
-      }
-    ]
-  },
-  {
     "pollster": "More In Common",
     "date": "17–20 Jan 2025",
     "parties": [
