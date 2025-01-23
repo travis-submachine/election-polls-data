@@ -14,6 +14,14 @@
       {
         "name": "Reform",
         "percentage": 24
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 14
+      },
+      {
+        "name": "Green",
+        "percentage": 9
       }
     ]
   },
@@ -32,6 +40,14 @@
       {
         "name": "Reform",
         "percentage": 25
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 12
+      },
+      {
+        "name": "Green",
+        "percentage": 7
       }
     ]
   },
@@ -50,6 +66,14 @@
       {
         "name": "Reform",
         "percentage": 22
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 11
+      },
+      {
+        "name": "Green",
+        "percentage": 8
       }
     ]
   },
@@ -68,6 +92,14 @@
       {
         "name": "Reform",
         "percentage": 23
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 12
+      },
+      {
+        "name": "Green",
+        "percentage": 7
       }
     ]
   },
@@ -86,6 +118,14 @@
       {
         "name": "Reform",
         "percentage": 25
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 12
+      },
+      {
+        "name": "Green",
+        "percentage": 10
       }
     ]
   },
@@ -104,6 +144,14 @@
       {
         "name": "Reform",
         "percentage": 22
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 13
+      },
+      {
+        "name": "Green",
+        "percentage": 9
       }
     ]
   },
@@ -122,6 +170,14 @@
       {
         "name": "Reform",
         "percentage": 24
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 10
+      },
+      {
+        "name": "Green",
+        "percentage": 9
       }
     ]
   },
@@ -140,6 +196,14 @@
       {
         "name": "Reform",
         "percentage": 20
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 11
+      },
+      {
+        "name": "Green",
+        "percentage": 7
       }
     ]
   },
@@ -158,6 +222,14 @@
       {
         "name": "Reform",
         "percentage": 21
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 13
+      },
+      {
+        "name": "Green",
+        "percentage": 8
       }
     ]
   },
@@ -176,6 +248,14 @@
       {
         "name": "Reform",
         "percentage": 20
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 12
+      },
+      {
+        "name": "Green",
+        "percentage": 7
       }
     ]
   },
@@ -194,6 +274,14 @@
       {
         "name": "Reform",
         "percentage": 21
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 11
+      },
+      {
+        "name": "Green",
+        "percentage": 8
       }
     ]
   },
@@ -212,6 +300,14 @@
       {
         "name": "Reform",
         "percentage": 14.7
+      },
+      {
+        "name": "Lib Dems",
+        "percentage": 12.5
+      },
+      {
+        "name": "Green",
+        "percentage": 6.9
       }
     ]
   }
