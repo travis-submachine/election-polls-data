@@ -1,20 +1,18 @@
-{
-  "UK": [
-    { "party": "Labour", "odds": "2.5" },
-    { "party": "Conservative", "odds": "3.0" },
-    { "party": "Reform", "odds": "10.0" }
-  ],
-  "US": [
-    { "party": "Democrats", "odds": "1.8" },
-    { "party": "Republicans", "odds": "2.2" }
-  ],
-  "Germany": [
-    { "party": "SPD", "odds": "2.1" },
-    { "party": "CDU/CSU", "odds": "1.9" }
-  ],
-  "Canada": [
-    { "party": "Liberal", "odds": "2.0" },
-    { "party": "Conservative", "odds": "3.2" }
-  ]
-}
-
+[
+  {
+    "party": "Labour",
+    "odds": 2.84
+  },
+  {
+    "party": "Conservatives",
+    "odds": 2.87
+  },
+  {
+    "party": "Reform UK",
+    "odds": 3.55
+  },
+  {
+    "party": "Liberal Democrats",
+    "odds": 90
+  }
+]
